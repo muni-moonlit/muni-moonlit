@@ -1,8 +1,10 @@
 # 🌙 Olá, me chamo Müni! 🌙
 
-- 🖥️ Estudante de **web developmet** em início de jornada!
-- ✨ Começando no **front-end** e focando mais além!
-- 🚀 **Aprendiz eterna**, sempre buscando melhorar.
+***perfil antigo**
+
+- 🖥️ Estudante de **ciência da computação** em início de jornada!
+- ✨ Apaixonado por Criptografia e Segurança da informação.
+- 🚀 **Aprendiz eterno**, sempre buscando melhorar.
 - 🥰 Uso [**Gitmoji**](https://gitmoji.dev/) para os meus commits!
 
 ---
@@ -15,7 +17,7 @@
 
 ## 🔗 Conecte-se comigo!
 
-- [LinkedIn](https://www.linkedin.com/in/muni-moonlit/)
+- [LinkedIn](https://www.linkedin.com/in/rafa-muni/)
 
 ---
 
